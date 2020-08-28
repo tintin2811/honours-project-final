@@ -1,0 +1,82 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px 0px; }
+  
+  .row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    min-height: 400px; 
+    color: #0f0f0f; }
+  
+  .footer {
+    background-color:#FFC0CB;
+    margin: 0px auto;
+    padding: 20px 0px; }
+  
+  .jumbotron {
+    margin:0px auto;
+    padding: 70px 30px;
+    background: #FFC0CB;
+    color: white;
+    background-image: url("https://st4.depositphotos.com/15208558/21637/i/450/depositphotos_216375120-stock-photo-two-male-signs-painted-lgbt.jpg");
+    font-weight: bold;
+   }
+  
+  address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f; }
+  
+  body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0; }
+  
+  .navbar-dark {
+    background-color:#DB7093	; }
+  
+  .tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px; }
+  
+  .carousel {
+    background:#DB7093 ; }
+    .carousel .carousel-item {
+      height: 300px; }
+      .carousel .carousel-item img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-height: 300px; }
+  
+  #carouselButton {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1; }
+  .modal-header{
+    background-color:#DB7093 ;}
+    .modal-header .modal-title{
+      color: floralwhite;
+    }
+    .modal-header .close {
+      color: floralwhite;
+    }
+  .modal-body {
+    background-color: white;
+  }
+  .card .card-body img{
+   padding: 10px;
+   margin: 0px auto;
+   position: relative;
+   transform: translate(0%, -10%);
+  }
+  #menu {
+    background-color: #DB7093 ;
+  }
+  .btn {
+    background-color: #C71585;
+    color: white ;
+  } 
+  
